@@ -1,0 +1,50 @@
+body{
+    background-color: cornsilk;
+}
+#paraborder{
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid black;
+    width: auto;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+h2{
+    color:purple;
+}
+input{
+    border: 2px solid rgb(144,0,0);
+}
+div p{
+    background-color: yellowgreen;
+    width: 35%;
+}
+#textblock1{
+    border: 1px solid gray;
+    width: 500px;
+    height: 100px;
+    margin: auto;
+    background-color: salmon;
+}
+#textblock2{
+    border: 5px solid gray;
+    width: 500px;
+    height: 100px;
+}
+a{
+    color:red;
+}
+#itemone{
+    text-decoration: overline;
+    color:purple;
+}
+.three{
+    background-color:darkorange;
+    border: 4px dashed yellow;
+}
+a:visited{
+    color: blue;
+}
+#comment{
+    font-style: italic;
+}
